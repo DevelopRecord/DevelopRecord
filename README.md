@@ -2,13 +2,12 @@
 
 ### Hi there 👋 I'm mobile app developer using iOS.🌱
 
-Sometimes I'm developing websites using html, css, JavaScript. but recently iOS development is better.
-
 • 🌱 I’m currently learning Swift, SwiftUI etc...<br/><br/>
 • 📄 My record of development is https://ondevelop.tistory.com <br/><br/>
 • 💬 Ask me about jhlee@gmail.com <br/>
 
 <!--
+Sometimes I'm developing websites using html, css, JavaScript. but recently iOS development is better.
 **DevelopRecord/DevelopRecord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
