@@ -4,9 +4,9 @@
 
 Sometimes I'm developing websites using html, css, JavaScript. but recently iOS development is better.
 
-• 🌱 I’m currently learning Swift, SwiftUI etc...
-• 📄 My record of development is https://ondevelop.tistory.com
-• 💬 Ask me about jhlee@gmail.com
+• 🌱 I’m currently learning Swift, SwiftUI etc... \n
+• 📄 My record of development is https://ondevelop.tistory.com \n
+• 💬 Ask me about jhlee@gmail.com \n
 
 <!--
 **DevelopRecord/DevelopRecord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
