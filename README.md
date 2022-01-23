@@ -1,7 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevelopRecord&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <!-- Hit 방문기록 -->
 
 ### Hi there 👋 I'm mobile app developer using iOS.🌱
+
 Sometimes I'm developing websites using html, css, JavaScript. but recently iOS development is better.
+
+• 🌱 I’m currently learning Swift, SwiftUI etc...
+• 📄 My record of development is https://ondevelop.tistory.com
+• 💬 Ask me about jhlee@gmail.com
 
 <!--
 **DevelopRecord/DevelopRecord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
