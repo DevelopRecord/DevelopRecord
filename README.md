@@ -15,7 +15,7 @@ src="https://capsule-render.vercel.app/api?type=rounded&color=5084ff&reversal=tr
 
 </div>
 
-### Contact me 👀
+## Contact me 👀
 * <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=Mail.Ru&logoColor=005FF9"/>: ljh97820@naver.com</a>
 * <a href="https://velog.io/@ljh97820/"><img src="https://img.shields.io/badge/Velog-181717?style=flat-square&logo=Velog&logoColor=white"/> : https://velog.io/@ljh97820/</a>
 * <a href="https://ondevelop.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181717?style=flat-square&logo=GitHub&logoColor=white"/>: https://ondevelop.tistory.com/</a>
