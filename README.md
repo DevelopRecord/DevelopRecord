@@ -21,12 +21,8 @@ src="https://capsule-render.vercel.app/api?type=rounded&color=5084ff&reversal=tr
 * <a href="https://ondevelop.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181717?style=flat-square&logo=GitHub&logoColor=white"/>: https://ondevelop.tistory.com/</a>
 * <a href="https://www.notion.so/Jaehyeok-Lee-2454428ce30c4ecd9efdcc3b2c7b85b1"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=ffffff"/>: https://www.notion.so/Jaehyeok-Lee-2454428ce30c4ecd9efdcc3b2c7b85b1</a>
    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopRecord&layout=compact&theme=tokyonight)
-
-<br>
-<hr>
-<br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopRecord&layout=compact&theme=tokyonight)  
+<br/>
 ![DevelopRecord's github stats](https://github-readme-stats.vercel.app/api?username=DevelopRecord&show_icons=true&theme=tokyonight)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevelopRecord&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
