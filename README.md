@@ -2,7 +2,7 @@
 <img 
 src="https://capsule-render.vercel.app/api?type=rounded&color=5084ff&reversal=true&height=200&section=header&text=Jae%20Hyeok%20Lee&textBg=false&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignX=50&fontAlignY=50"/>
 
-#### 사용자를 위한 깔끔하고 효율적인 인터페이스를 구성하는 것을 좋아하고,<br/> 개발자를 위한 깔끔하고 효율적인 코드컨벤션에 관심이 많은 iOS 개발자입니다.
+#### 사용자를 위한 깔끔하고 효율적인 인터페이스를 구성하는 것을 좋아하고,<br/> 개발자를 위한 깔끔하고 효율적인 코드컨벤션에 관심이 많은 iOS 신입 개발자입니다.
 
 <div align="center">
    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
