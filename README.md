@@ -8,7 +8,7 @@ src="https://capsule-render.vercel.app/api?type=rounded&color=5084ff&reversal=tr
    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
    <img src="https://img.shields.io/badge/Swift-E34F26?style=flat-square&logo=swift&logoColor=white"/>
-   <img src="https://img.shields.io/badge/ReactiveX-147EFB?style=flat-square&logo=ReactiveX&logoColor=white"/>
+   <img src="https://img.shields.io/badge/ReactiveX-FF69B4?style=flat-square&logo=ReactiveX&logoColor=white"/>
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 <br/>
