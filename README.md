@@ -19,7 +19,7 @@ src="https://capsule-render.vercel.app/api?type=rounded&color=5084ff&reversal=tr
 * <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=Mail.Ru&logoColor=005FF9"/>: ljh97820@naver.com</a>
 * <a href="https://velog.io/@ljh97820/"><img src="https://img.shields.io/badge/Velog-181717?style=flat-square&logo=Velog&logoColor=white"/> : https://velog.io/@ljh97820/</a>
 * <a href="https://ondevelop.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181717?style=flat-square&logo=GitHub&logoColor=white"/>: https://ondevelop.tistory.com/</a>
-* <a href="https://www.notion.so/Jaehyeok-Lee-2454428ce30c4ecd9efdcc3b2c7b85b1"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=ffffff"/>: https://www.notion.so/Jaehyeok-Lee-2454428ce30c4ecd9efdcc3b2c7b85b1</a>
+* <a href="https://www.notion.so/Jaehyeok-Lee-2454428ce30c4ecd9efdcc3b2c7b85b1"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=ffffff"/>: https://imminent-darkness-3f2.notion.site/Lee-JaeHyeok-079e5b73d1824023934ce88452687c56</a>
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopRecord&layout=compact&theme=tokyonight)  
 <br/>
